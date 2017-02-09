@@ -24,9 +24,16 @@ namespace CqrsDemo.CommandLineApp
 
             IServiceProvider servicesProvider = services.BuildServiceProvider();
 
+
+            var cmd = new WriteInfoCommand("Hello World !!!!");
+
             // This works
             var command = servicesProvider.GetService<IAsyncCommandHandler<WriteInfoCommand>>();
-            Task.Run(async () => await command.ExecuteAsync(new WriteInfoCommand("Hello World !!!!"))).Wait();
+            Task.Run(async () => await command.ExecuteAsync(cmd)).Wait();
+
+
+            //var fac = servicesProvider.GetService<IAsyncCommandFactory>();
+            //Task.Run(async () => await fac.ExecuteAsync(cmd)).Wait();
 
             // This will fail
             Task.Run(async () => await RunAsync(servicesProvider.GetService<IDemoEngine>())).Wait();

@@ -19,13 +19,13 @@ namespace CqrsDemo.Register
             return services;
         }
 
-        public static IServiceCollection UseDemoAssemblyFactories(this IServiceCollection services)
-        {
-            services.AddSingleton<IQueryFactory, AssemblyCachedQueryHandlerFactory>();
-            services.AddSingleton<IAsyncCommandFactory, AssemblyCachedAsyncCommandHandlerFactory>();
+      public static IServiceCollection UseDemoAssemblyFactories(this IServiceCollection services)
+      {
+          services.AddSingleton<IQueryFactory, AssemblyCachedQueryHandlerFactory>();
+          services.AddSingleton<IAsyncCommandFactory, AssemblyCachedAsyncCommandHandlerFactory>();
 
-            return services;
-        }
+          return services;
+      }
 
         public static IServiceCollection UseDemoCommandLine(this IServiceCollection services)
         {

@@ -1,5 +1,5 @@
---temp-output:C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\obj\Debug\net452\
---out:C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\bin\Debug\net452\CqrsDemo.dll
+--temp-output:C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\obj\Debug\net452\
+--out:C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\bin\Debug\net452\CqrsDemo.dll
 --define:DEBUG
 --define:TRACE
 --define:NET452
@@ -44,15 +44,15 @@
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Threading.Timer.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.ReaderWriter.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.XDocument.dll
---reference:C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\MicroCQRS\bin\Debug\net452\MicroCQRS.dll
+--reference:C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\MicroCQRS\bin\Debug\net452\MicroCQRS.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
-C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\DemoEngine.cs
-C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\IDemoEngine.cs
-C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\CommandLine\CommandsHandlers\BaseCommandLineAsyncCommand.cs
-C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\CommandLine\CommandsHandlers\WriteInfoToCommandLineHandler.cs
-C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\CommandLine\Queries\BaseCommandLineQuery.cs
-C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\Commands\WriteInfoCommand.cs
-C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\Properties\AssemblyInfo.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\DemoEngine.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\IDemoEngine.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\CommandLine\CommandsHandlers\BaseCommandLineAsyncCommand.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\CommandLine\CommandsHandlers\WriteInfoToCommandLineHandler.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\CommandLine\Queries\BaseCommandLineQuery.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\Commands\WriteInfoCommand.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo\Properties\AssemblyInfo.cs

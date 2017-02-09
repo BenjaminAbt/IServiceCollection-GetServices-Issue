@@ -15,7 +15,7 @@ namespace MicroCQRS.DefaultFactories
         }
 
         public TQuery Resolve<TQuery>() where TQuery : IQuery
-        { 
+        {
             IList<TQuery> queries = _register.GetServices<TQuery>().ToList();
             if (queries.Count > 1)
             {

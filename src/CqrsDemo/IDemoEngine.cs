@@ -3,9 +3,8 @@ using MicroCQRS;
 
 namespace CqrsDemo
 {
-    public interface IDemoEngine
+    public interface IDemoEngine : IMicroCqrsEngine
     {
-        TQuery Resolve<TQuery>() where TQuery : IQuery;
-        Task ExecuteAsync(ICommand command);
+
     }
 }

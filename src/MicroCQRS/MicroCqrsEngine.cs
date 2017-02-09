@@ -3,11 +3,10 @@ using System.Threading.Tasks;
 
 namespace MicroCQRS
 {
-    public abstract class MicroCqrsEngine
+    public abstract class MicroCqrsEngine : IMicroCqrsEngine
     {
         private readonly IQueryFactory _queryFactory;
         private readonly IAsyncCommandFactory _commandFactory;
-        private readonly IServiceProvider _serviceProvider;
 
         protected MicroCqrsEngine(IQueryFactory queryFactory, IAsyncCommandFactory commandFactory)
         {
@@ -20,7 +19,7 @@ namespace MicroCQRS
             return _queryFactory.Resolve<TQuery>();
         }
 
-        public Task ExecuteAsync(ICommand command)
+        public Task ExecuteAsync<TCommand>(TCommand command) where TCommand : class, ICommand
         {
             return _commandFactory.ExecuteAsync(command);
         }

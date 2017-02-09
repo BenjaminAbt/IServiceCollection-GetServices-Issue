@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\obj\Debug\net452\dotnet-compile.assemblyinfo.cs"
--out:"c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\bin\Debug\net452\CqrsDemo.CommandLineApp.exe"
+"C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\obj\Debug\net452\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\bin\Debug\net452\CqrsDemo.CommandLineApp.exe"
 -r:"C:\Users\Ben\.nuget\packages\Microsoft.Extensions.DependencyInjection\1.1.0\lib\netstandard1.1\Microsoft.Extensions.DependencyInjection.dll"
 -r:"C:\Users\Ben\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\1.1.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Collections.dll"
@@ -44,11 +44,11 @@
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.ReaderWriter.dll"
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.XDocument.dll"
 -r:"C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\bin\Debug\net452\CqrsDemo.dll"
--r:"c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.Register\bin\Debug\net452\CqrsDemo.Register.dll"
+-r:"C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.Register\bin\Debug\net452\CqrsDemo.Register.dll"
 -r:"C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\MicroCQRS\bin\Debug\net452\MicroCQRS.dll"
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll"
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll"
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll"
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll"
-"c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Program.cs"
-"c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Properties\AssemblyInfo.cs"
+"C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Program.cs"
+"C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Properties\AssemblyInfo.cs"

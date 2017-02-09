@@ -1,5 +1,5 @@
---temp-output:c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\obj\Debug\net452\
---out:c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\bin\Debug\net452\CqrsDemo.CommandLineApp.exe
+--temp-output:C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\obj\Debug\net452\
+--out:C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\bin\Debug\net452\CqrsDemo.CommandLineApp.exe
 --define:DEBUG
 --define:TRACE
 --define:NET452
@@ -48,11 +48,11 @@
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.ReaderWriter.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Xml.XDocument.dll
 --reference:C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\bin\Debug\net452\CqrsDemo.dll
---reference:c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.Register\bin\Debug\net452\CqrsDemo.Register.dll
+--reference:C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.Register\bin\Debug\net452\CqrsDemo.Register.dll
 --reference:C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\MicroCQRS\bin\Debug\net452\MicroCQRS.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
-c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Program.cs
-c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Properties\AssemblyInfo.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Program.cs
+C:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\Properties\AssemblyInfo.cs
