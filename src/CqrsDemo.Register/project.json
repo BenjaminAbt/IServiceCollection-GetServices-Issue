@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "CqrsDemo": "1.0.0-*",
+    "MicroCQRS": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "net452": {}
+  }
+}

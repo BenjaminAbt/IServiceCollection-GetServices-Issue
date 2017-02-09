@@ -1,0 +1,5 @@
+#:c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\CqrsDemo.CommandLineApp.xproj
+c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.CommandLineApp\CqrsDemo.CommandLineApp.xproj|c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.Register\CqrsDemo.Register.xproj
+c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.Register\CqrsDemo.Register.xproj|C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\CqrsDemo.xproj
+c:\Users\Ben\documents\visual studio 2015\Projects\CqrsDemo\src\CqrsDemo.Register\CqrsDemo.Register.xproj|C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\MicroCQRS\MicroCQRS.xproj
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\CqrsDemo\CqrsDemo.xproj|C:\Users\Ben\Documents\Visual Studio 2015\Projects\CqrsDemo\src\MicroCQRS\MicroCQRS.xproj
